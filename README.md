@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/ufKP1cB_eXUAAAAC/raiden-shogun.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/ufKP1cB_eXUAAAAC/raiden-shogun.gif" align="center" style="width: auto" />
 </div>  
   
 
@@ -42,7 +42,7 @@
 ## 🌐 Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egafernanda_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ega-fernanda-putra-4b88041b7/) 
 
-# 📊 GitHub Stats:
+<div align="center"># 📊 GitHub Stats:</div>
 ![](https://github-readme-stats.vercel.app/api?username=Fallennnnnn&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fallennnnnn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fallennnnnn&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

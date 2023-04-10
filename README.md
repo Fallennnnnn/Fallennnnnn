@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/ufKP1cB_eXUAAAAC/raiden-shogun.gif" align="center" style="width: auto" />
+<img src="https://media.tenor.com/ufKP1cB_eXUAAAAC/raiden-shogun.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -42,15 +42,14 @@
 ## 🌐 Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egafernanda_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ega-fernanda-putra-4b88041b7/) 
 
-<div align="center"># 📊 GitHub Stats:</div>
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Fallennnnnn&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fallennnnnn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fallennnnnn&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fallennnnnn&icon=9&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Quote
+<p align="center" width="100%">
+    <img width="50%" src="(https://ibb.co/JsMq35M"><img src="https://i.ibb.co/Kr3DKF3/Best-Naruto-Quotes-21.jpg)">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

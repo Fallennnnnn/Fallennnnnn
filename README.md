@@ -7,11 +7,9 @@
   
 
 - 🔭I'm currently studying Information Systems at Institut Teknologi Sepuluh Nopember.  
-  
-
+ 
 - 🌱 I’m currently learning about Machine Learning and data analytics :D  
   
-
 - ⚡ Fun fact: I love sleeping!  
   
 
@@ -19,13 +17,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -47,12 +38,6 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 

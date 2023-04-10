@@ -16,9 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
-
-### Backend  
+## My Skill Set   
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -41,7 +39,7 @@
 
 <br/>  
 
-## 🌐 Socials:
+## 🌐 Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egafernanda_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ega-fernanda-putra-4b88041b7/) 
 
 # 📊 GitHub Stats:
